@@ -232,7 +232,7 @@ function PasswordSection({
           className="inline-flex items-center gap-1 text-xs text-primary hover:underline"
         >
           <MessageCircle className="h-3 w-3" />
-          <span>进群可获得访问密码</span>
+          <span>赞赏作者，进群可获得访问密码</span>
         </Link>
         <div className="flex gap-2">
           <Button size="sm" onClick={onSave}>
